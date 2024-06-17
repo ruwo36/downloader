@@ -1,0 +1,4 @@
+python-telegram-bot==21.0.1
+pytube==15.0.0
+instaloader==4.11
+yt_dlp==2024.5.27
