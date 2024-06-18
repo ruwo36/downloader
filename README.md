@@ -81,7 +81,7 @@ Show it in my [LinkedIn](https://www.linkedin.com/in/ali-n-ajeeb), I post a vide
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
-And media is licensed under the Copyright, if you want use it or author design contact with us.
+And media is licensed under the Copyright, if you want use it or anothor design contact with us.
 
 ## Contact
 
