@@ -75,13 +75,13 @@ When `start` the bot:
 ```bash
 python main.py
 ```
-Show it in my [LinkedIn](https://www.linkedin.com/in/ali-n-ajeeb), I post a video it.
+Show it in my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7209061116214214656), I post a video it.
 
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
-And media is licensed under the Copyright, if you want use it or anothor design contact with us.
+And media is licensed under the Copyright, if you want use it or another design contact with us.
 
 ## Contact
 
